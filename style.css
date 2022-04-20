@@ -34,7 +34,7 @@ input[type="button"] {
     font-size: 2rem;
     border: none;
     cursor: pointer;
-    transition: 0.1s ease-in-out;
+    transition: 0.001s ease-in-out;
 }
 
 input[type="button"]:hover {
